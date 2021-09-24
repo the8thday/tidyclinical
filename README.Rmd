@@ -1,0 +1,41 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# tidyclinical
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
+The goal of tidyclinical is to provide a tidy like analysis for clinical research, especially for RCT research.
+
+## Installation
+
+You can install the released version of tidyclinical from [CRAN](https://CRAN.R-project.org) with:
+
+``` r
+install.packages("tidyclinical")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example}
+library(tidyclinical)
+## basic example code
+```
+
+It's just under develop, **don't** use it now!
